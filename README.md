@@ -20,12 +20,12 @@ Find me in the following places:
 ## Stats
 
 <p float="left">
-  <a href="https://github.com/garyb-bs/garyb-bs">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=garyb-bs&show_icons=true&theme=tokyonight" />
+  <a href="https://github.com/garuhodo/garuhodo">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=garuhodo&show_icons=true&theme=tokyonight" />
   </a>
   
   <a href="https://github.com/garyb-bs/garyb-bs">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garyb-bs&layout=compact&theme=tokyonight" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garuhodo&layout=compact&theme=tokyonight" />
   </a>
 </p>
 
