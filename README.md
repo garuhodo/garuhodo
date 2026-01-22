@@ -9,7 +9,7 @@ A little bit about me. I'm a father of a very energetic 9 year old boy, I'm a pa
 
 I know a lot about some things, a little about a lot of things, and I am always keen to learn something new. 
 
-<br><br><br><br><br>
+<br><br><br><br>
 
 <div id="toc"> <!-- both work, toc or user-content-toc -->
   <ul style="list-style: none;">
