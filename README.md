@@ -19,7 +19,7 @@ I know a lot about some things, a little about a lot of things, and I am always 
   </ul>
 </div>
 
-<div align="center">
+<div align="left">
 
 | Social | Business |
 |:------:|:--------:|
