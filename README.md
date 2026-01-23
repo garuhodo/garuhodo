@@ -85,7 +85,7 @@ I know a lot about some things, a little about a lot of things, and I am always 
   <img src="https://jmeter.apache.org/images/mstile-144x144.png" alt="JMeter" width="45" height="45"/>
 </p>
 
-<h2>📝 &nbsp;What I Am Learning</h2>
+<h2>📝 &nbsp;What I'm Learning</h2>
 <p align="left">
   <img src="https://cdn.simpleicons.org/unity/181717/ffffff" alt="unity" width="45" height="45"/>
   <img src="https://cdn.simpleicons.org/unrealengine/181717/ffffff" alt="UE5" width="45" height="45"/>
